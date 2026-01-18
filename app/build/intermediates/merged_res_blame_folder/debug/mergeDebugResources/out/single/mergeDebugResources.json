@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/drawable_ic_launcher_background.xml.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-pngs-11:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "ro.pub.cs.systems.eim.lab10.siplinphone.app-debug-15:/layout_main_activity.xml.flat",
+        "source": "ro.pub.cs.systems.eim.lab10.siplinphone.app-main-17:/layout/main_activity.xml"
+    }
+]
